@@ -50,7 +50,6 @@ body {
 
 .menuoption {
 	font-size: 13px;
-	color: #bbb;
 	letter-spacing: 1px;
 	text-transform: uppercase;
 	font-family: 'helvetica';
@@ -58,12 +57,12 @@ body {
 
 .menu {
 	text-decoration: none;
-	color: #bbb;
+	color: #777;
 }
 
 .menu:visited {
 	text-decoration: none;
-	color: #bbb;
+	color: #777;
 }
 
 .menu:hover {
